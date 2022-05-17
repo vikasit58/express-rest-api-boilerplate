@@ -1,0 +1,77 @@
+2022-05-12T20:16:50.083Z error: ReferenceError: httpStatus is not defined
+    at /usr/src/app/src/app.js:49:21
+    at Layer.handle [as handle_request] (/usr/src/app/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/usr/src/app/node_modules/express/lib/router/index.js:323:13)
+    at /usr/src/app/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/usr/src/app/node_modules/express/lib/router/index.js:341:12)
+    at next (/usr/src/app/node_modules/express/lib/router/index.js:275:10)
+    at /usr/src/app/node_modules/express/lib/router/index.js:641:15
+    at next (/usr/src/app/node_modules/express/lib/router/index.js:260:14)
+    at Function.handle (/usr/src/app/node_modules/express/lib/router/index.js:174:3)
+    at router (/usr/src/app/node_modules/express/lib/router/index.js:47:12)
+2022-05-12T20:16:50.263Z error: ReferenceError: httpStatus is not defined
+    at /usr/src/app/src/app.js:49:21
+    at Layer.handle [as handle_request] (/usr/src/app/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/usr/src/app/node_modules/express/lib/router/index.js:323:13)
+    at /usr/src/app/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/usr/src/app/node_modules/express/lib/router/index.js:341:12)
+    at next (/usr/src/app/node_modules/express/lib/router/index.js:275:10)
+    at /usr/src/app/node_modules/express/lib/router/index.js:641:15
+    at next (/usr/src/app/node_modules/express/lib/router/index.js:260:14)
+    at Function.handle (/usr/src/app/node_modules/express/lib/router/index.js:174:3)
+    at router (/usr/src/app/node_modules/express/lib/router/index.js:47:12)
+2022-05-12T20:20:10.668Z error: Error: Requested API Not found
+    at /usr/src/app/src/app.js:50:8
+    at Layer.handle [as handle_request] (/usr/src/app/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/usr/src/app/node_modules/express/lib/router/index.js:323:13)
+    at /usr/src/app/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/usr/src/app/node_modules/express/lib/router/index.js:341:12)
+    at next (/usr/src/app/node_modules/express/lib/router/index.js:275:10)
+    at /usr/src/app/node_modules/express/lib/router/index.js:641:15
+    at next (/usr/src/app/node_modules/express/lib/router/index.js:260:14)
+    at Function.handle (/usr/src/app/node_modules/express/lib/router/index.js:174:3)
+    at router (/usr/src/app/node_modules/express/lib/router/index.js:47:12)
+2022-05-12T20:20:10.722Z error: Error: Requested API Not found
+    at /usr/src/app/src/app.js:50:8
+    at Layer.handle [as handle_request] (/usr/src/app/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/usr/src/app/node_modules/express/lib/router/index.js:323:13)
+    at /usr/src/app/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/usr/src/app/node_modules/express/lib/router/index.js:341:12)
+    at next (/usr/src/app/node_modules/express/lib/router/index.js:275:10)
+    at /usr/src/app/node_modules/express/lib/router/index.js:641:15
+    at next (/usr/src/app/node_modules/express/lib/router/index.js:260:14)
+    at Function.handle (/usr/src/app/node_modules/express/lib/router/index.js:174:3)
+    at router (/usr/src/app/node_modules/express/lib/router/index.js:47:12)
+2022-05-12T20:20:21.669Z error: Error: Requested API Not found
+    at /usr/src/app/src/app.js:50:8
+    at Layer.handle [as handle_request] (/usr/src/app/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/usr/src/app/node_modules/express/lib/router/index.js:323:13)
+    at /usr/src/app/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/usr/src/app/node_modules/express/lib/router/index.js:341:12)
+    at next (/usr/src/app/node_modules/express/lib/router/index.js:275:10)
+    at /usr/src/app/node_modules/express/lib/router/index.js:641:15
+    at next (/usr/src/app/node_modules/express/lib/router/index.js:260:14)
+    at Function.handle (/usr/src/app/node_modules/express/lib/router/index.js:174:3)
+    at router (/usr/src/app/node_modules/express/lib/router/index.js:47:12)
+2022-05-12T20:52:33.063Z error: Error: Requested API Not found
+    at /usr/src/app/src/app.js:50:8
+    at Layer.handle [as handle_request] (/usr/src/app/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/usr/src/app/node_modules/express/lib/router/index.js:323:13)
+    at /usr/src/app/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/usr/src/app/node_modules/express/lib/router/index.js:341:12)
+    at next (/usr/src/app/node_modules/express/lib/router/index.js:275:10)
+    at /usr/src/app/node_modules/express/lib/router/index.js:641:15
+    at next (/usr/src/app/node_modules/express/lib/router/index.js:260:14)
+    at Function.handle (/usr/src/app/node_modules/express/lib/router/index.js:174:3)
+    at router (/usr/src/app/node_modules/express/lib/router/index.js:47:12)
+2022-05-12T21:15:03.292Z error: Error: Requested API Not found
+    at /usr/src/app/src/app.js:50:8
+    at Layer.handle [as handle_request] (/usr/src/app/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/usr/src/app/node_modules/express/lib/router/index.js:323:13)
+    at /usr/src/app/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/usr/src/app/node_modules/express/lib/router/index.js:341:12)
+    at next (/usr/src/app/node_modules/express/lib/router/index.js:275:10)
+    at /usr/src/app/node_modules/express/lib/router/index.js:641:15
+    at next (/usr/src/app/node_modules/express/lib/router/index.js:260:14)
+    at Function.handle (/usr/src/app/node_modules/express/lib/router/index.js:174:3)
+    at router (/usr/src/app/node_modules/express/lib/router/index.js:47:12)

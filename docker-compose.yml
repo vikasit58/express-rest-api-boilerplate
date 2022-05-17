@@ -1,0 +1,15 @@
+version: '3.0'
+services:
+  express-rest-api:
+    build: .
+    image: express-rest-api
+    container_name: express-rest-api
+
+    volumes: 
+      - ./:/usr/src/app
+      - /usr/src/app/node_modules
+    ports:
+      - '3002:3002'    
+
+
+    
